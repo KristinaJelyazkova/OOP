@@ -1,0 +1,62 @@
+CEO
+Kristina Jelyazkova
+Mladost 1A
+92437347
+02.14.21
+Ivo Mihov
+0
+Happy NOW
+Plovdiv Lusien 83B
+2
+1
+Angel Todorkov
+Jump Project
+50
+Desi Dimitrova
+Ice Cream Project
+5
+tester
+Maria Kukleva
+Lulin 512
+18274512
+23.01.12
+Kristina Jelyazkova
+50
+FlyHigh Project
+Winows 10
+junior programmer
+Georgi Hristov
+Bankia 12
+293274
+21.10.16
+Kristina Jelyazkova
+1
+World Project
+senior programmer
+Desi Dimitrova
+Drujba 2
+10138409
+10.03.13
+Angel Todorkov
+50
+Hello sea Project
+Linux
+Banana Project
+tester
+John Legend
+Musagenitsa
+1928237
+12.01.08
+Ivo Mihov
+50
+Deep Water Project
+Windows 7
+tester
+Angel Todorkov
+Mladost 5
+91828
+12.08.01
+Desi Dimitrova
+1
+Fire Project
+Ubunto
